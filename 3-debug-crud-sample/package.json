@@ -1,0 +1,25 @@
+{
+  "name": "crud-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "morgan": "^1.9.1",
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.1",
+    "@types/lodash": "^4.14.138",
+    "@types/morgan": "^1.7.37",
+    "@types/node": "^12.7.2",
+    "@types/uuid": "^3.4.5"
+  }
+}
